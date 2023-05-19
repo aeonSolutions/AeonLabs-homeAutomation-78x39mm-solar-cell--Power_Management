@@ -30,6 +30,14 @@ for a maximum of 9A.
 
 <br>
 
+<br>
+
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status
+  Not tested.
+  
+  
+ <br>
+  
 ## Compatibility
 
 <p align="center">
