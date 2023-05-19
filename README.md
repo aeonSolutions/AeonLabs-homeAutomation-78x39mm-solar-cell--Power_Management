@@ -14,8 +14,8 @@
 
 <br />
 
-# 78x39mm solar cell  Power_Management 5V, 9V 12V DC MAX 9A
-
+# 78x39mm solar cell Power Management 
+(5V, 9V 12V DC MAX 9A)
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/kicad_63WVZY1xpR.png" height="350">
