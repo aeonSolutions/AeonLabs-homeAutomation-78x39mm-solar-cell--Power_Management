@@ -17,7 +17,7 @@
 # 78x39mm solar cell Power Management 
 **(5V, 9V 12V DC MAX 9A)**
 
-This PCB electronics is intented to be used with the 78x39mm solar cell pcb. It features 6x independent power solar lines, switch selectable into 3 different DC outputs: 
+This PCB electronics is intented to be used with the 78x39mm solar cell pcb. It features 6x independent power solar lines, with up to 97.1 % of efficiency, that can be configured by a switch for 3 different DC outputs: 
 - 5V
 - 9V
 - and 12V
