@@ -13,6 +13,7 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale.svg)
 
 <br />
+
 # 78x39mm solar cell  Power_Management 5V, 9V 12V DC MAX 9A
 
 
