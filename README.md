@@ -25,7 +25,7 @@ This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolut
 for a maximum of 9A.  
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/kicad_63WVZY1xpR.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/image_2023-05-19_211122765.png" height="350">
 </p>
 
 <br>
