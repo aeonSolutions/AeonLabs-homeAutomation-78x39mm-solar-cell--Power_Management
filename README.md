@@ -35,7 +35,12 @@ for a maximum of 9A.
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status
   Not tested.
   
-  
+  <p align="center">
+     <a href="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/Circuit%20Schematic/Circuit%20Schematic%20AeonLabs%20Science.pdf">
+      <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/circuit_schematic_solar_cell_aeonlabs_science.png" height="350">
+    </a>
+  </p>
+
  <br>
   
 ## Compatibility
