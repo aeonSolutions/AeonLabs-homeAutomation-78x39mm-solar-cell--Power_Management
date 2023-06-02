@@ -24,6 +24,14 @@ This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolut
 
 for a maximum of 9A.  
 
+This is a simple PCB for a direct fit on commercially available blue solar cell tiles with dimensions 78x39mm. This Smart Device is intended to be connected to the distributed Indoors power storage and installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips. For instance, this one sold on AliExpress.
+
+When connected in series and installed on several windows and networked, can power off the grid a 4.2V LED illumination on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this power bank here.
+
+One important takeaway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring 124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems.
+
+If you prefer can read this project on Autodesk's Intructables.com website, [here](https://www.instructables.com/78x39mm-Solar-Cell-Power-Management/).
+
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/image_2023-05-19_211122765.png" height="350">
 </p>
