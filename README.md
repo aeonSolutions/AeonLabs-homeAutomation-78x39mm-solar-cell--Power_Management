@@ -17,6 +17,10 @@
 # 78x39mm solar cell Power Management 
 **(5V, 9V 12V DC MAX 9A)**
 
+Buy on [Tindie.com](https://www.tindie.com/products/aeonlabs/home-automation-smart-coffee-machine-addon/) or on [Gumroad.com ](https://3455782655596.gumroad.com/l/uexgjh)
+
+<br>
+
 This PCB is for assembly with [79x38mm solar cells](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main). It features up to 6x independent solar cell power lines, with up to **97.1 % of efficiency**, that can be configured by a dip switch for 3 different DC outputs:
 - 5V
 - 9V
@@ -30,11 +34,29 @@ When connected in series and installed on several windows and networked, can pow
 
 One important takeaway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring 124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems.
 
-If you prefer can read this project on Autodesk's Intructables.com website, [here](https://www.instructables.com/78x39mm-Solar-Cell-Power-Management/).
+
+If you prefer, can read this project on ....
+
+- Autodesk's Intructables.com website, [here](https://www.instructables.com/member/mtpsilva/?publicPreview=true)
+- Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-add-on-for-the-philips-senseo-coffee-machine-06d9bf)
+- Medium.com webiste [here](https://medium.com/@mtpsilva)
+
+<br>
+
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/media/image_2023-05-19_211122765.png" height="350">
 </p>
+
+<br>
+
+### Current staus of development
+
+**1st iteration**
+
+The current status of development of this project has now the following preliminary conclusions:
+
+To optimize power storage , is necessary to have individual "power walls" according to output voltage and power requirements than to have a single bigger battery pack.  
 
 <br>
 
