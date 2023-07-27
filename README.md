@@ -62,8 +62,8 @@ To optimize power storage , is necessary to have individual "power walls" accord
 
 <br>
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status
-  Waiting for fabrication
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
+  Deployed. Tested and fully working. 
   
   <p align="center">
      <a href="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell--Power_Management/blob/main/Circuit%20Schematic/Circuit%20Schematic%20AeonLabs%20Science.pdf">
